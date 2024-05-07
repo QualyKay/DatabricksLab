@@ -14,6 +14,6 @@
 - Create a Delta Live Table Workflow to run the DLT on a schedule
 - Retro-fit the WireFrame onto the final star schema in Power BI
 
-| ### Tools Used |
+|  Tools Used |
 |---|
 |- Azure SQL Database - Azure Databricks - Python - PySpark - Power BI|
